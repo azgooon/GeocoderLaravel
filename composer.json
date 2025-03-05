@@ -28,8 +28,8 @@
         "geocoder-php/google-maps-provider": "^4.0",
         "guzzlehttp/psr7": "*",
         "http-interop/http-factory-guzzle": "^1.0",
-        "illuminate/cache": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
-        "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
+        "illuminate/cache": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+        "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
         "php-http/curl-client": "*",
         "php": "^8.0",
         "willdurand/geocoder": "^4.0"
@@ -44,7 +44,7 @@
         "orchestra/testbench-browser-kit": "^7.0|^8.5",
         "orchestra/testbench-dusk": "^7.0|^8.22",
         "php-coveralls/php-coveralls": "*",
-        "phpunit/phpunit": "8.5|^9.0|^10.5",
+        "phpunit/phpunit": "8.5|^9.0|^10.5|^11.0",
         "sebastian/phpcpd": "^5.0|^6.0"
     },
     "autoload": {
